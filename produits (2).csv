@@ -1,0 +1,11 @@
+Produit,Catégorie,Prix,Quantité,Magasin,Ville
+PC Portable,Informatique,6500,10,TechStore,Rabat
+Smartphone,Informatique,4200,25,PhoneShop,Casablanca
+Chaise,Bureau,800,40,HomeDeco,Marrakech
+Bureau,Bureau,2500,15,HomeDeco,Marrakech
+Télévision,Électronique,5000,8,ElectroWorld,Tanger
+Casque Audio,Électronique,700,60,ElectroWorld,Rabat
+Imprimante,Informatique,1500,12,TechStore,Fès
+Lampe,Bureau,200,100,HomeDeco,Rabat
+Clavier,Informatique,300,50,PhoneShop,Casablanca
+Souris,Informatique,150,80,PhoneShop,Casablanca
